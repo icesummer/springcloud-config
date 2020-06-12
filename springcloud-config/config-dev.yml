@@ -1,9 +1,0 @@
-config:
-      server:
-        git:
-          ### uri: git@github.com:icesummer/springcloud-config.git
-          uri: https://github.com/icesummer/springcloud-config.git
-          ### 搜索目录
-          search-paths:
-            - springcloud-config
-          default-label: master
